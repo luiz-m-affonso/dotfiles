@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = luizbuchhalter@outlook.com
-	name = Luiz Matheus
+	email = zsh git_setup.sh
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles
